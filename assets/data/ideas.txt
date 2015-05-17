@@ -1,0 +1,26 @@
+http://tulpinteractive.com/close-votes/
+
+http://en.wikipedia.org/wiki/List_of_political_parties_in_Sweden
+http://en.wikipedia.org/wiki/Swedish_general_election,_2010
+
+http://en.wikipedia.org/wiki/The_Alliance_%28Sweden%29
+http://en.wikipedia.org/wiki/Red-Greens_%28Sweden%29
+
+Colours:
+
+Socialdemokratiska arbetarpartiet #FF0000
+Moderata samlingspartiet #0000FF
+Miljöpartiet de Gröna #80AA4E
+Folkpartiet liberalerna #50A7F7
+Centerpartiet #39944A
+Sverigedemokraterna #FFFF00
+Vänsterpartiet #B00000
+Kristdemokraterna #2D338E
+
+
+Map could show:
+Which party won in different regions.
+Which coalition won in different regions.
+Select party / coalition -- how much percent they received in different regions, shown with a shade of the party's colour and varying lightness/saturation based on the percentage.
+
+Clicking on a region should show a chart on the right.
